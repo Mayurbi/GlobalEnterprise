@@ -1,7 +1,12 @@
 # GlobalEnterprise
 
 Link do video: https://www.youtube.com/watch?v=WlTHkeeB8p0
+
+
 Link do diagrama: https://lucid.app/lucidchart/d9048d8a-00d1-4e3a-ab79-bb24a9766a58/edit?invitationId=inv_a8379145-d19d-4850-bec4-13da6f2f083d
+
+
+
 SouLutions
 Lista de endpoints
 -/usuario
